@@ -13,8 +13,6 @@ public class StatisticsWarmUp {
 
     public static void main(String args[]) {
 
-        // get the arguments and calculate the mean
-
         Integer numOfElements;
         Double mean = 0.0;
         Double median;
